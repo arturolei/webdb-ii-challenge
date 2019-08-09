@@ -30,13 +30,13 @@ Follow these steps for completing your project.
 The client for this API is a car dealer who has provided the following specs:
 
 - The critical information (REQUIRED) for each car is:
-    - [] VIN, unique, string?, not nullable
-    - [] make, not nullable
-    - [] model, number, not nullable
-    - [] mileage, number, not nullable
+    - [X] VIN, unique, string?, not nullable
+    - [X] make, not nullable
+    - [X] model, number, not nullable
+    - [X] mileage, number, not nullable
 - They also track transmission type and status of the title (clean, salvage, etc.), but this information is not always immediately known. 
-    - Transmission, string?, nullable/not required 
-    - Title Status, string?, nullable/not required
+    - [X] Transmission, string?, nullable/not required 
+    - [X] Title Status, string?, nullable/not required
 
 ## Stretch Problems
 
